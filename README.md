@@ -9,7 +9,8 @@
 3. **TimeSeriesAnalysis_HousingStarts.R**
    - Utilizes polynomial regression and time series decomposition methods (classical and STL) to analyze and forecast housing starts data, focusing on identifying patterns of trends and seasonality.
    - Based on the analysis, I recommend the company utilize the STL decomposition model for predicting housing starts due to its superior performance in capturing trends and seasonality. The data shows a significant trend with housing starts decreasing from 1983 to 1992, increasing from 1990 to 2004, and again from 2010 to 2020, along with a notable seasonal effect each year.
-     ![Uploading Screenshot 2024-07-07 at 1.48.08 PM.png…]()
+<img width="1468" alt="Screenshot 2024-07-07 at 1 48 08 PM" src="https://github.com/willy61412/Classification_Model_Unraveling_Startup_Success/assets/133930618/45b861d9-6442-4c99-beca-1a86bfacbda6">
+
 
      
 4. **ForecastingModels_BikeRentalDaily.R**
